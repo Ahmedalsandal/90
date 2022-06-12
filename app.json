@@ -2,7 +2,7 @@
     "name": "banda offline",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/1680X/90",
+    "repository": "https://github.com/Ahmedalsandal/90",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -76,7 +76,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya ato di /skip",
-            "value": "https://github.com/1680X/90",
+            "value": "https://github.com/Ahmedalsandal/90",
             "required": true
         },
         "UPSTREAM_BRANCH": {
